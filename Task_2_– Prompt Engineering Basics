@@ -1,0 +1,16 @@
+Tool of the Day: PromptPerfect – refine prompts for better results.
+
+📘 Theory 
+1. Zero-shot prompting
+You give the AI a task without any examples.
+AI guesses your style & format by itself.
+
+2. Few-shot prompting
+You give the AI some examples first, then ask it to continue in the same style.
+Example:  Roses are red, skies are blue,
+Poetry is sweet, and so are you.  
+
+3. Role-based prompts
+You tell the AI to “act as” someone.
+Example: “Act as a professional storyteller. Write a bedtime story for kids about a talking tree.”
+This makes AI’s response more focused.
