@@ -7,7 +7,7 @@ AI guesses your style & format by itself.
 
 2. Few-shot prompting
 You give the AI some examples first, then ask it to continue in the same style.
-Example:  Roses are red, skies are blue,
+Example:  Roses are red, skies are blue,'
 Poetry is sweet, and so are you.  
 
 3. Role-based prompts
